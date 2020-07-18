@@ -1,0 +1,13 @@
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.csprojAssemblyReference.cache
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.AssemblyInfoInputs.cache
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.AssemblyInfo.cs
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.csproj.CoreCompileInputs.cache
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.exe
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.deps.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.runtimeconfig.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.runtimeconfig.dev.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.dll
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - eletrônico.pdb
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.dll
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.pdb
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - eletrônico.genruntimeconfig.cache

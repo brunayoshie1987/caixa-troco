@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "caixa - troco/1.0.0": {
+        "runtime": {
+          "caixa - troco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "caixa - troco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

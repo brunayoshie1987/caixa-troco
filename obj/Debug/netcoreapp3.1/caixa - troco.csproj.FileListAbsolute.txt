@@ -1,0 +1,13 @@
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.exe
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.deps.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.runtimeconfig.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.runtimeconfig.dev.json
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.dll
+C:\repo\caixa - troco\caixa - troco\bin\Debug\netcoreapp3.1\caixa - troco.pdb
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.csprojAssemblyReference.cache
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.AssemblyInfoInputs.cache
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.AssemblyInfo.cs
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.csproj.CoreCompileInputs.cache
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.dll
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.pdb
+C:\repo\caixa - troco\caixa - troco\obj\Debug\netcoreapp3.1\caixa - troco.genruntimeconfig.cache
